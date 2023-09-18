@@ -15,7 +15,7 @@ function App() {
         <Story
           title="Tesla Shanghai Capacity Will Exceed 1 Million Cars In 2022, BYD Blade Batteries Coming"
           link="https://cleantechnica.com/2022/02/14/tesla-shanghai-capacity-will-exceed-1-million-cars-in-2022-byd-blade-batteries-coming/"
-          image="https://placehold.co/600x400?text=Project"
+          image="https://cleantechnica.com/files/2021/10/Tesla-China-Sales-e1642076454693.jpeg"
           author="Steve Hanley"
           published="2022-02-14 05:28:46"
           description="Tesla's Giga Shanghai is expanding and will soon be able to manufacture more than 1 million cars a year."
@@ -23,7 +23,7 @@ function App() {
         <Story
           title="Tesla recall for heater and defroster systems issued by Transport Canada"
           link="https://www.teslarati.com/tesla-recall-heater-defroster-system-transport-canada/"
-          image="https://placehold.co/600x400?text=Project"
+          image="https://www.teslarati.com/wp-content/uploads/2020/11/tesla-model-3-heat-pump-refresh.jpeg"
           author="Maria Merano"
           published="2022-02-14 05:03:33"
           description="Transport Canada issued a recall for the Tesla Model 3, Model Y, and Model S on February 3, 2022, the agency told Teslarati recently. The recall was issued after the agency discovered an issue with the heat system in certain Tesla vehicles.  Transport Canada reported that a little over 2,084 Tesla vehicles were affected by the recall."
@@ -39,7 +39,7 @@ function App() {
         <Story
           title="Tesla’s next facility in China may be located in Shenyang: local gov’t announcement"
           link="https://www.teslarati.com/tesla-gigafactory-shenyang/"
-          image="https://placehold.co/600x400?text=Project"
+          image="https://www.teslarati.com/wp-content/uploads/2022/02/tesla-gigafactory-shenyang-.jpg"
           author="Maria Merano"
           published="02:51:31"
           description="On Friday, February 11, the Liaoning Province hinted that Tesla was searching for a second Gigafactory in China. One of the potential locations for Tesla’s next factory is the District of Shenyang.  Liaoning Province released an announcement on its official WeChat account"
