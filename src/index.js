@@ -61,9 +61,17 @@ function Articles(props) {
   );
 }
 
+const handleDelete = (e) => {
+  const target = e.target;
+  if (target.tagName === "SPAN" && target.textContent === "x") {
+    e.currentTarget.remove();
+  }
+};
+
 function Story(props) {
   return (
-    <li>
+    <div className="story" onClick={handleDelete}>
+      <span className="delete">x</span>
       <div className="article-img"></div>
       <h2 className="article-title">
         <a href={props.link} className="story">
@@ -75,13 +83,14 @@ function Story(props) {
         <br />
         <span className="published">{props.published}</span>
       </h4>
-      <img src={props.image} alt="" />
+      <img src={props.image} alt="" width="500" />
       <p>
         <span className="description">{props.description}</span>
       </p>
-    </li>
+    </div>
   );
 }
+
 
 root.render(
   <StrictMode>
